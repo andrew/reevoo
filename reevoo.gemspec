@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.name        = "reevoo"
   s.version     = Reevoo::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Andrew Nesbitt"]
-  s.email       = ["TODO: andrewnez@gmail.com"]
+  s.authors     = ["Andrew Nesbitt"]
+  s.email       = ["andrewnez@gmail.com"]
   s.homepage    = "http://github.com/andrew/reevoo"
   s.summary     = %q{Reevoo API wrapper}
   s.description = %q{Ruby wrapper around the Reevoo XML API}
