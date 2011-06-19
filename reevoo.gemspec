@@ -21,5 +21,5 @@ Gem::Specification.new do |s|
   s.add_dependency(%q<crack>, ["~>  0.1.8"])
   s.add_dependency(%q<hashie>, ["~>  1.0.0"])
 
-  s.add_development_dependency(%q<rspec>, ["~>  2.5.0"])
+  s.add_development_dependency(%q<rspec>, ["~>  2.6.0"])
 end
