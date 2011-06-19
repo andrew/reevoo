@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   s.require_paths = ["lib"]
 
-  s.add_dependency(%q<faraday>, ["~>  0.5.7"])
+  s.add_dependency(%q<faraday>, ["~>  0.7.2"])
   s.add_dependency(%q<crack>, ["~>  0.1.8"])
   s.add_dependency(%q<hashie>, ["~>  1.0.0"])
 
