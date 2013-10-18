@@ -11,6 +11,7 @@ Gem::Specification.new do |s|
   s.homepage    = "http://github.com/andrew/reevoo"
   s.summary     = %q{Reevoo API wrapper}
   s.description = %q{Ruby wrapper around the Reevoo XML API}
+  s.license     = 'MIT'
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
