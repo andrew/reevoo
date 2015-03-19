@@ -1,4 +1,4 @@
-Reevoo
+[Reevoo](http://libraries.io/rubygems/reevoo)
 ======
 
 Install
